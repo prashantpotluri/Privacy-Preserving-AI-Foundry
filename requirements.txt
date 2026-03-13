@@ -1,0 +1,1 @@
+numpy\npandas\nscipy\nloguru\npydantic>=2.0.0\n
